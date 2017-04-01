@@ -1,0 +1,7 @@
+# do not touch this line
+configVersion: 2
+
+name: spinKitTest
+description: Test MATRIX Spin Kit Library
+keywords: ''
+displayName: Spin Kit Test
